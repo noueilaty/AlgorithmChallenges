@@ -2,13 +2,13 @@
 
 After cloning repository, install `jest` in termal:
 ```
-sudo npm install -g jest
-Password:
+$ sudo npm install -g jest
+$ Password:
 ```
 
 To test a specific exercise, navigate into the exercises folder, then in terminal, run:
 ```
-jest fib/test.js --watch
+$ jest fib/test.js --watch
 ```
 
 To debug the code:
